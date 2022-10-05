@@ -1,0 +1,13 @@
+C:\Users\An-PC\source\repos\LinqToXML\obj\Debug\netcoreapp3.1\LinqToXML.csprojAssemblyReference.cache
+C:\Users\An-PC\source\repos\LinqToXML\obj\Debug\netcoreapp3.1\LinqToXML.AssemblyInfoInputs.cache
+C:\Users\An-PC\source\repos\LinqToXML\obj\Debug\netcoreapp3.1\LinqToXML.AssemblyInfo.cs
+C:\Users\An-PC\source\repos\LinqToXML\obj\Debug\netcoreapp3.1\LinqToXML.csproj.CoreCompileInputs.cache
+C:\Users\An-PC\source\repos\LinqToXML\bin\Debug\netcoreapp3.1\LinqToXML.exe
+C:\Users\An-PC\source\repos\LinqToXML\bin\Debug\netcoreapp3.1\LinqToXML.deps.json
+C:\Users\An-PC\source\repos\LinqToXML\bin\Debug\netcoreapp3.1\LinqToXML.runtimeconfig.json
+C:\Users\An-PC\source\repos\LinqToXML\bin\Debug\netcoreapp3.1\LinqToXML.runtimeconfig.dev.json
+C:\Users\An-PC\source\repos\LinqToXML\bin\Debug\netcoreapp3.1\LinqToXML.dll
+C:\Users\An-PC\source\repos\LinqToXML\bin\Debug\netcoreapp3.1\LinqToXML.pdb
+C:\Users\An-PC\source\repos\LinqToXML\obj\Debug\netcoreapp3.1\LinqToXML.dll
+C:\Users\An-PC\source\repos\LinqToXML\obj\Debug\netcoreapp3.1\LinqToXML.pdb
+C:\Users\An-PC\source\repos\LinqToXML\obj\Debug\netcoreapp3.1\LinqToXML.genruntimeconfig.cache

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CarClientAgreement>
+  <Cars>
+    <car>
+      <id>1</id>
+      <brand>BMW</brand>
+      <type>cuv</type>
+      <year>2019</year>
+      <cost>3200</cost>
+    </car>
+    <car>
+      <id>2</id>
+      <brand>Honda</brand>
+      <type>van</type>
+      <year>2012</year>
+      <cost>1150</cost>
+    </car>
+    <car>
+      <id>3</id>
+      <brand>Toyota</brand>
+      <type>van</type>
+      <year>2020</year>
+      <cost>3500</cost>
+    </car>
+    <car>
+      <id>4</id>
+      <brand>BMW</brand>
+      <type>cuv</type>
+      <year>2022</year>
+      <cost>4000</cost>
+    </car>
+    <car>
+      <id>5</id>
+      <brand>BMW</brand>
+      <type>van</type>
+      <year>2019</year>
+      <cost>2000</cost>
+    </car>
+    <car>
+      <id>6</id>
+      <brand>Honda</brand>
+      <type>van</type>
+      <year>2015</year>
+      <cost>1700</cost>
+    </car>
+  </Cars>
+  <Clients>
+    <client>
+      <Id>1</Id>
+      <firstName>Bruno</firstName>
+      <lastName>Pomidorro</lastName>
+      <address>address3</address>
+    </client>
+    <client>
+      <Id>2</Id>
+      <firstName>Marina</firstName>
+      <lastName>Rachello</lastName>
+      <address>address2</address>
+    </client>
+    <client>
+      <Id>3</Id>
+      <firstName>Porco</firstName>
+      <lastName>Rocco</lastName>
+      <address>address1</address>
+    </client>
+  </Clients>
+  <Agreements>
+    <agreement>
+      <id>1</id>
+      <clientID>3</clientID>
+      <issueDate>24.03.2022 0:00:00</issueDate>
+      <returnDate>15.04.2022 0:00:00</returnDate>
+      <carsID>5</carsID>
+    </agreement>
+    <agreement>
+      <id>2</id>
+      <clientID>3</clientID>
+      <issueDate>13.06.2019 0:00:00</issueDate>
+      <returnDate>20.09.2019 0:00:00</returnDate>
+      <carsID>2</carsID>
+    </agreement>
+    <agreement>
+      <id>3</id>
+      <clientID>2</clientID>
+      <issueDate>01.04.2022 0:00:00</issueDate>
+      <returnDate>30.04.2022 0:00:00</returnDate>
+      <carsID>2</carsID>
+    </agreement>
+    <agreement>
+      <id>4</id>
+      <clientID>2</clientID>
+      <issueDate>02.09.2021 0:00:00</issueDate>
+      <returnDate>15.09.2021 0:00:00</returnDate>
+      <carsID>1</carsID>
+    </agreement>
+    <agreement>
+      <id>5</id>
+      <clientID>3</clientID>
+      <issueDate>25.03.2021 0:00:00</issueDate>
+      <returnDate>12.04.2021 0:00:00</returnDate>
+      <carsID>3</carsID>
+    </agreement>
+    <agreement>
+      <id>6</id>
+      <clientID>1</clientID>
+      <issueDate>24.03.2022 0:00:00</issueDate>
+      <returnDate>15.04.2022 0:00:00</returnDate>
+      <carsID>2</carsID>
+    </agreement>
+  </Agreements>
+</CarClientAgreement>
