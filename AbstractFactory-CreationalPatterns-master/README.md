@@ -1,0 +1,2 @@
+# AbstractFactory-CreationalPatterns
+It is necessary to implement the task of "Game - Civilization". Several civilizations take part in the game. In each civilization there are individuals of several types: warrior, worker, aristocrat, and others. Each race has a financial reserve and a certain set of territories with necessarily placed on them objects of types: forests, fields, housing and factories. Demonstrate the creation of different races, teams of individuals, the initialization of territories and changes in the composition of the objects of the game.

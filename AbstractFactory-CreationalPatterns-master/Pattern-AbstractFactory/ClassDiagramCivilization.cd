@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pattern_AbstractFactory.Individuals.Aristocrat" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAEAAAAA=</HashCode>
+      <FileName>Individuals\Aristocrat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Individuals.Individual" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAQAAAAAAAAAAQAAAIAAAAAEAEAAEAAAAA=</HashCode>
+      <FileName>Individuals\Individual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Individuals.Warrior" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAEAAAAA=</HashCode>
+      <FileName>Individuals\Warrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Individuals.Worker" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAEAAAAA=</HashCode>
+      <FileName>Individuals\Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.DragonAristocrat" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Dragon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.DragonWarrior" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Dragon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.DragonWorker" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Dragon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.ElfWarrior" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Elf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.ElfAristocrat" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Elf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.ElfWorker" Collapsed="true">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Elf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.HumanWarrior" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.HumanAristocrat" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Races.HumanWorker" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Races\Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Civilization" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Civilization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.CivilizationFactory" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAIAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>CivilizationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.DragonFactory" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAIAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>CivilizationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.ElfFactory" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAIAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>CivilizationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.HumanFactory" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAIAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>CivilizationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pattern_AbstractFactory.Program" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

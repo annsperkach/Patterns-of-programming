@@ -1,0 +1,13 @@
+C:\Users\An-PC\source\repos\LabLinq\bin\Debug\netcoreapp3.1\LabLinq.exe
+C:\Users\An-PC\source\repos\LabLinq\bin\Debug\netcoreapp3.1\LabLinq.deps.json
+C:\Users\An-PC\source\repos\LabLinq\bin\Debug\netcoreapp3.1\LabLinq.runtimeconfig.json
+C:\Users\An-PC\source\repos\LabLinq\bin\Debug\netcoreapp3.1\LabLinq.runtimeconfig.dev.json
+C:\Users\An-PC\source\repos\LabLinq\bin\Debug\netcoreapp3.1\LabLinq.dll
+C:\Users\An-PC\source\repos\LabLinq\bin\Debug\netcoreapp3.1\LabLinq.pdb
+C:\Users\An-PC\source\repos\LabLinq\obj\Debug\netcoreapp3.1\LabLinq.AssemblyInfoInputs.cache
+C:\Users\An-PC\source\repos\LabLinq\obj\Debug\netcoreapp3.1\LabLinq.AssemblyInfo.cs
+C:\Users\An-PC\source\repos\LabLinq\obj\Debug\netcoreapp3.1\LabLinq.csproj.CoreCompileInputs.cache
+C:\Users\An-PC\source\repos\LabLinq\obj\Debug\netcoreapp3.1\LabLinq.dll
+C:\Users\An-PC\source\repos\LabLinq\obj\Debug\netcoreapp3.1\LabLinq.pdb
+C:\Users\An-PC\source\repos\LabLinq\obj\Debug\netcoreapp3.1\LabLinq.genruntimeconfig.cache
+C:\Users\An-PC\source\repos\LabLinq\obj\Debug\netcoreapp3.1\LabLinq.csprojAssemblyReference.cache

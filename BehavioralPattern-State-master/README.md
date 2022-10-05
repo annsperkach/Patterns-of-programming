@@ -1,0 +1,2 @@
+# BehavioralPattern-State
+Implement the model of the order management system in the online store.  Different states of the order must be realized (accepted, processed, paid, canceled, shipment allowed, delivery allowed, delivered to the point of delivery, the buyer took the order).  The buyer must be informed of any change in status. Assume that the storekeeper and courier are also involved in the model.
